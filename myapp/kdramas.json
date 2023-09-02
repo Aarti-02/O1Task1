@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Descendants of the Sun",
+        "photo_url": "static/kdrama_img/dots.jpg",
+
+        "genre": "Romance, Action",
+        "summary": "A love story between a soldier and a doctor in a war-torn country."
+    },
+    {
+        "name": "Goblin",
+        "photo_url": "static/kdrama_img/goblin.jpg",
+
+        "genre": "Fantasy, Romance",
+        "summary": "A tale of a goblin and a grim reaper who live for hundreds of years."
+    },
+    {
+        "name": "Crash Landing on You",
+        "photo_url": "static/kdrama_img/clon.jpg",
+
+        "genre": "Romance, Comedy",
+        "summary": "A South Korean heiress accidentally lands in North Korea and falls in love with a soldier."
+    },
+    {
+        "name": "Itaewon Class",
+        "photo_url": "static/kdrama_img/itaewon.jpg",
+
+        "genre": "Drama, Revenge",
+        "summary": "A young man seeks revenge and opens a bar in Itaewon, striving for success."
+    },
+    {
+        "name": "Reply 1988",
+        "photo_url": "static/kdrama_img/reply.jpg",
+
+        "genre": "Slice of Life, Romance",
+        "summary": "A heartwarming story of five friends and their families in the late 1980s."
+    },
+    {
+        "name": "Hotel Del Luna",
+        "photo_url": "static/kdrama_img/hotel.jpg",
+
+        "genre": "Fantasy, Romance",
+        "summary": "A hotel for ghosts becomes the setting for a supernatural love story."
+    },
+    {
+        "name": "Vincenzo",
+        "photo_url": "static/kdrama_img/vincenzo.jpg",
+
+        "genre": "Crime, Comedy",
+        "summary": "An Italian lawyer and mafia consigliere seeks revenge in South Korea."
+    },
+   
+    {
+        "name": "Moon Lovers: Scarlet Heart Ryeo",
+        "photo_url": "static/kdrama_img/moonlovers.jpg",
+
+        "genre": "Historical, Romance",
+        "summary": "A woman is transported back in time to the Goryeo Dynasty and becomes entangled in political intrigue."
+    }
+]

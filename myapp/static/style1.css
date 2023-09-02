@@ -1,0 +1,61 @@
+
+
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("kback1.gif");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    color: rgb(6, 0, 11);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    z-index: -1;
+}
+
+.h1 {
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(249, 120, 120);
+    color: black;
+}
+
+.h1 h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+.h1 p {
+    padding: 0 30px;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 2.0em;
+    font-weight: bold;
+}
+
+a {
+    padding: 15px;
+    border-radius: 15px;
+    background-color: rgb(249, 120, 120);
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 20%;
+    height: 230px;
+}

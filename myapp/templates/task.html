@@ -1,0 +1,26 @@
+
+{% load static %} 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>K-Dramas</title>
+    <link rel="stylesheet" href="{% static 'style1.css' %}">
+</head>
+<body>
+    <div class="overlay">
+        <div class="h1">
+            <h1>K-Dramas</h1>
+            <p>Explore the world of Korean dramas with these exciting stories.</p>
+        </div>
+        
+        <h2> ♥ {{ kdrama.name }} ♥ </h2>
+        <!-- Replace the image source with the URL of your K-drama images -->
+        <img  src="{{ kdrama.photo_url }}" alt="{{ kdrama.name }}" width="200">
+        <p>Genre: {{ kdrama.genre }}</p>
+        <p>{{ kdrama.summary }}</p>
+        
+        <a href="{% url 'task' %}">Click here to see next kdrama!</a>
+       
+    </div>
+</body>
+</html>
